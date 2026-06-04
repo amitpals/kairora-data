@@ -1,0 +1,48 @@
+[
+  {
+    "symbol": "20MICRONS",
+    "name": "20 Microns Limited",
+    "exchange": "NSE",
+    "series": "EQ",
+    "isin": "INE144J01027",
+    "faceValue": 5,
+    "listingDate": "2008-10-06"
+  },
+  {
+    "symbol": "21STCENMGM",
+    "name": "21st Century Management Services Limited",
+    "exchange": "NSE",
+    "series": "EQ",
+    "isin": "INE253B01015",
+    "faceValue": 10,
+    "listingDate": "1995-05-03"
+  },
+  {
+    "symbol": "360ONE",
+    "name": "360 ONE WAM LIMITED",
+    "exchange": "NSE",
+    "series": "EQ",
+    "isin": "INE466L01038",
+    "faceValue": 1,
+    "listingDate": "2019-09-19"
+  },
+  {
+    "symbol": "3BBLACKBIO",
+    "name": "3B Blackbio Dx Limited",
+    "exchange": "NSE",
+    "series": "EQ",
+    "isin": "INE994E01018",
+    "faceValue": 10,
+    "listingDate": "2026-04-20"
+  },
+  {
+    "symbol": "3IINFOLTD",
+    "name": "3i Infotech Limited",
+    "exchange": "NSE",
+    "series": "EQ",
+    "isin": "INE748C01038",
+    "faceValue": 10,
+    "listingDate": "2021-10-22"
+  }
+  // ... ~2,000+ more NSE equities
+]
